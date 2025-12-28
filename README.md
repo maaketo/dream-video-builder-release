@@ -28,14 +28,6 @@ Windows用アプリです。
 
 ---
 
-## ダウンロード
-
-👉 **最新版はこちらからダウンロードしてください**
-
-https://github.com/maaketo/dream-video-builder-release/releases
-
----
-
 ## 動作環境
 
 - Windows 10 / 11
@@ -55,6 +47,14 @@ https://github.com/maaketo/dream-video-builder-release/releases
 ご利用の際は、あらかじめこの点をご理解のうえでお試しください。
 
 ---
+## ダウンロード
+
+👉 **最新版はこちらからダウンロードしてください**
+
+https://github.com/maaketo/dream-video-builder-release/releases
+
+---
+
 
 ## Windows の警告について
 
